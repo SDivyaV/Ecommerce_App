@@ -5,6 +5,7 @@ The app allows users to browse and purchase clothes categorized for men, women, 
 It also includes an Admin Dashboard for managing products.
 
 **FEATURES**
+
 ->  Frontend:
   1. Built with React for a modern and interactive user experience.
   2. Responsive design for seamless browsing across devices.
